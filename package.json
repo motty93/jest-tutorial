@@ -5,6 +5,9 @@
   "repository": "git@github.com:motty93/jest-tutorial.git",
   "author": "motty93 <rdwbocungelt5@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "yarn jest"
+  },
   "devDependencies": {
     "@types/jest": "^28.1.6",
     "@types/node": "^18.0.6",
